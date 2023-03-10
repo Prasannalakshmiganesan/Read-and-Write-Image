@@ -74,31 +74,19 @@ cv2.waitKey(0)
 
 ## Output:
 
-### i) Read and display the image
-
+### i) READ AND DISPLAY THE IMAGE :
 ![OUTPUT](./images/dipt1.png)
 
-### ii)Write the image
-
+### ii) WRITE THE IMAGE :
 ![OUTPUT](./images/dipt2.png)
 
-### iii)Shape of the Image
-
+### iii) SHAPE OF THE IMAGE :
 ![OUTPUT](./images/dipt3.png)
 
-
-
-
-### iv)Access rows and columns
-
+### iv)  ACCESS THE ROWS AND THE COLUMNS :
 ![OUTPUT](./images/dipt4.png)
 
-
-
-
-
-### v)Cut and paste portion of image
-
+### v) CUT AND PASTE THE PORTION OF THE IMAGE :
 ![OUTPUT](./images/dipt5.png)
 
 ## Result:
