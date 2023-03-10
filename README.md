@@ -86,9 +86,16 @@ cv2.waitKey(0)
 
 ![OUTPUT](./images/dipt3.png)
 
+
+
+
 ### iv)Access rows and columns
 
 ![OUTPUT](./images/dipt4.png)
+
+
+
+
 
 ### v)Cut and paste portion of image
 
