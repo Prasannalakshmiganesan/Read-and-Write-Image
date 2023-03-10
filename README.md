@@ -24,7 +24,7 @@ End the program and close the output image windows.
 ### Register Number: 212222240075
 
 i) #To Read,display the image
-```
+```python3
 import cv2
 color_img=cv2.imread('tinytan.jpg',1)
 cv2.imshow('212222240075_PRASANNALAKSHMI',color_img)
@@ -32,7 +32,7 @@ cv2.waitKey(0)
 
 ```
 ii) #To write the image
-```
+```python3
 import cv2
 color_img=cv2.imread('tinytan.jpg',1)
 w=cv2.imwrite('1.png',color_img)
